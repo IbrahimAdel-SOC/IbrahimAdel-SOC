@@ -24,6 +24,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <div>
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### SIEM
@@ -42,6 +43,13 @@ My journey in computer science has led me to develop a deep passion for cybersec
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-CC0000?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Virtualization & Lab
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PNETLab-0A6E3F?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Operating Systems
