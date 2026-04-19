@@ -1,7 +1,7 @@
 # Hello, I'm Ibrahim
 <a href="https://www.linkedin.com/in/ibrahimadel1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from the Faculty of Computers and Information, Computer Science Department, with a strong interest in cybersecurity and a dedication to solving complex security challenges.
+I am a final year Computer Science student at the Faculty of Computers and Information, with a strong interest in cybersecurity and a dedication to solving complex security challenges.
 
 ## Objective
 
