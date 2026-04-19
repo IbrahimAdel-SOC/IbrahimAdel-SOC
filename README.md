@@ -42,7 +42,6 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-CC0000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Virtualization & Lab
