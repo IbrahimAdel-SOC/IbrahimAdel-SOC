@@ -56,7 +56,6 @@ My journey in computer science has led me to develop a deep passion for cybersec
     <img src="https://img.shields.io/badge/-Linux_Admin_I-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ethical_Hacking-FF0000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh_Engineer-3B86C7?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## CTF & Wargames
