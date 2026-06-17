@@ -4,19 +4,17 @@
 I am a final year Computer Science student at the Faculty of Computers and Information, with a strong interest in cybersecurity and a dedication to solving complex security challenges.
 
 ## Objective
-
 My journey in computer science has led me to develop a deep passion for cybersecurity. Through hands-on labs, certifications, and SOC-focused training, I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
-| Active Directory Setup and Domain Management  | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
-| Endpoint Log Forwarding with Splunk UF & Sysmon | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
-| Offensive Security and Attack Simulation      | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
-| Threat Detection and IOC Identification       | <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
+| SOAR Workflow Automation and Orchestration     | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
+| Security Case Management with TheHive         | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
+| Endpoint Monitoring with Wazuh Agent & Sysmon | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
+| Threat Detection and IOC Identification       | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
+| Indicator Enrichment and Threat Intelligence  | <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a> |
 
 ## Tools
 
@@ -31,6 +29,12 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3B86C7?&style=for-the-badge&logoColor=white" />
+</div>
+
+### SOAR & Case Management
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-FF6600?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FFCC00?&style=for-the-badge&logoColor=black" />
 </div>
 
 ### Endpoint
@@ -71,4 +75,4 @@ My journey in computer science has led me to develop a deep passion for cybersec
 </div>
 
 ## Projects
-- <a href="https://github.com/IbrahimAdel-SOC/Active-Directory-lab">Active Directory Lab</a>
+- <a href="https://github.com/IbrahimAdel-SOC/SOC-Automation">SOC Automation</a>
